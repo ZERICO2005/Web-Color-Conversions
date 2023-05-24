@@ -1,3 +1,6 @@
+#ifndef RGB666_H
+#define RGB666_H
+
 #define AliceBlue 0x3BF7F
 #define AntiqueWhite 0x3EEB5
 #define Aqua 0x00FFF
@@ -138,3 +141,5 @@
 #define WhiteSmoke 0x3DF7D
 #define Yellow 0x3FFC0
 #define YellowGreen 0x26CCC
+
+#endif /* RGB666_H */

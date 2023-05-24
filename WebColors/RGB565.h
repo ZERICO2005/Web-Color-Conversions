@@ -1,3 +1,6 @@
+#ifndef RGB565_H
+#define RGB565_H
+
 #define AliceBlue 0xEFBF
 #define AntiqueWhite 0xF75A
 #define Aqua 0x07FF
@@ -138,3 +141,5 @@
 #define WhiteSmoke 0xF7BE
 #define Yellow 0xFFE0
 #define YellowGreen 0x9E66
+
+#endif /* RGB565_H */

@@ -1,3 +1,6 @@
+#ifndef BGR565_H
+#define BGR565_H
+
 #define AliceBlue 0xFFBD
 #define AntiqueWhite 0xD75E
 #define Aqua 0xFFE0
@@ -138,3 +141,5 @@
 #define WhiteSmoke 0xF7BE
 #define Yellow 0x07FF
 #define YellowGreen 0x3673
+
+#endif /* BGR565_H */

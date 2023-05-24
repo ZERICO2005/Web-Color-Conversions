@@ -1,3 +1,6 @@
+#ifndef RGB888_H
+#define RGB888_H
+
 #define AliceBlue 0xF0F8FF
 #define AntiqueWhite 0xFAEBD7
 #define Aqua 0x00FFFF
@@ -138,3 +141,5 @@
 #define WhiteSmoke 0xF5F5F5
 #define Yellow 0xFFFF00
 #define YellowGreen 0x9ACD32
+
+#endif /* RGB888_H */

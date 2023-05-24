@@ -1,3 +1,6 @@
+#ifndef RGB444_H
+#define RGB444_H
+
 #define AliceBlue 0xEFF
 #define AntiqueWhite 0xFED
 #define Aqua 0x0FF
@@ -138,3 +141,5 @@
 #define WhiteSmoke 0xEEE
 #define Yellow 0xFF0
 #define YellowGreen 0x9C3
+
+#endif /* RGB444_H */

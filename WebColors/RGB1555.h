@@ -1,3 +1,6 @@
+#ifndef RGB1555_H
+#define RGB1555_H
+
 #define AliceBlue 0xF7DF
 #define AntiqueWhite 0x7BBA
 #define Aqua 0x83FF
@@ -138,3 +141,5 @@
 #define WhiteSmoke 0xFBDE
 #define Yellow 0xFFE0
 #define YellowGreen 0xCF26
+
+#endif /* RGB1555_H */
