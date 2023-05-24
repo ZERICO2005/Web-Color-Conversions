@@ -16,3 +16,6 @@ BGR:
 	BGR565	: bbbb bggg gggr rrrr
 	BGR555	:  bbb bbgg gggr rrrr
 	BGR1555	: gbbb bbgg gggr rrrr
+
+You can check out the terrible code I used to generate the defines here:
+https://replit.com/@ZERICO2005/Web-Color-Conversion#
