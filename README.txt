@@ -1,6 +1,8 @@
 # Web-Color-Conversions
 All 140 Web Colors in C #defines. Includes the following pixel formats: 888,666,444 ; 565,555,1555 in addition to having an RGB and BGR version
 
+You can find the .h files inside of the WebColors folder
+
 List of pixel formats:
 RGB:
 	RGB888	: rrrr rrrr gggg gggg bbbb bbbb
